@@ -1,7 +1,13 @@
 # MS-Word-Image-Brightening
 
-This project solving a problem, that I faced,  while I was printing my course work: 
+This project solving a problem, that I faced, while I was printing my course work: 
 To save printer's inks you should invert color in all dark cmd screenshots.
+
+
+# What I Learned
+
+* How to parse World document
+* How to represent an image as an array
 
 ## Prerequisites
 * Python 3.7+ 
